@@ -1,3 +1,4 @@
 config_db.json
 candidates.csv
-.ipynb_checkpoints/
+.ipynb_checkpoints
+/.ipynb_checkpoints/
