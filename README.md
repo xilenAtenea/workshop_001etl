@@ -36,6 +36,7 @@ I have 50k rows of data about candidates. The fields I had were:
 To make this exercise specific was used:
 
 - python 3.10.5
+- mysqlclient 2.2.0
 
 This was done using VSC (Visual Studio Code). Other tools and modules were installed in a virtual environment to avoid compatibility issues, you will be able to install the requirements.txt to install them all instantly. We will see this in the Getting Started session.
 
