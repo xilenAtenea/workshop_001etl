@@ -33,8 +33,6 @@ I have 50k rows of data about candidates. The fields I had were:
 
 ## Technologies Used
 
-To make this exercise specific was used:
-
 - python 3.10.5
 - mysqlclient 2.2.0
 
@@ -42,7 +40,7 @@ This was done using VSC (Visual Studio Code). Other tools and modules were insta
 
 ## Repository overview
 
-This repository is quite simple, so it only has the notebook “[etl_workshop.ipynb](https://github.com/xilenAtenea/workshop_001etl/blob/main/etl_workshop.ipynb)” that you have to run to get all the results, and the .gitignore that shows some used filenames that you probably have to create or get. These files will be discussed further in Considerations.
+This repository is quite simple, it only has the notebook “[etl_workshop.ipynb](https://github.com/xilenAtenea/workshop_001etl/blob/main/etl_workshop.ipynb)” that you have to run to get all the results, and the .gitignore that shows some used filenames that you probably have to create or get. These files will be discussed further in Considerations.
 
 ## Getting Started
 
