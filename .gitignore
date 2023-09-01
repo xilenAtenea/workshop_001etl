@@ -2,3 +2,5 @@ config_db.json
 candidates.csv
 .ipynb_checkpoints
 /.ipynb_checkpoints/
+etl_workshop/
+data.csv
