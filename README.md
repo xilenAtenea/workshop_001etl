@@ -45,7 +45,7 @@ This was done using VSC (Visual Studio Code). Other tools and modules were insta
 
 ## Repository overview
 
-This repository is quite simple, it only has the notebook “[etl_workshop.ipynb](https://github.com/xilenAtenea/workshop_001etl/blob/main/etl_workshop.ipynb)” that you have to run to get all the results, and the .gitignore that shows some used filenames that you probably have to create or get. These files will be discussed further in Considerations.
+This repository is quite simple, it has the notebook “[etl_workshop.ipynb](https://github.com/xilenAtenea/workshop_001etl/blob/main/etl_workshop.ipynb)” that you have to run to get all the results, the .gitignore that shows some used filenames that you probably have to create or get. These files will be discussed further in Considerations; and the requirements.txt that would help you to install everything you need for this project.
 
 ## Getting Started
 
