@@ -14,22 +14,27 @@ The idea is to manipulate the data given to us in order to analyze it and create
 - Hires segmented by seniority (bar chart)
 - Hires across years for select countries (USA, Brazil, Colombia, Ecuador) displayed through a multiline chart.
 
+NOTE: A candidate is considered hired if he/she has both scores greater than or equal to 7.
+
 ## Quick data overview
 
-The CSV file contains the data of candidates who participated in a selection process for a job. It's important to note that this data is randomly generated. The task will be to perform extensive analysis and various data manipulations on this data set.
+The CSV file (candidates.csv) contains the data of candidates who participated in a selection process for a job. It's important to note that this data is randomly generated. The task will be to perform extensive analysis and various data manipulations on this data set like change the columns names and create a new column to determine whether or not a person was hired based on the criteria of the challenge (A candidate is considered hired if he/she has both scores greater than or equal to 7).
 
-I have 50k rows of data about candidates. The fields I had were:
+This dataset have 50k rows of data about candidates. The columns names and their respective datatype before data transformation are:
 
-- First Name
-- Last Name
-- Email
-- Country
-- Application Date
-- Yoe (years of experience)
-- Seniority
-- Technology
-- Code Challenge Score
-- Technical Interview
+- First Name : Object
+- Last Name : Object
+- Email : Object
+- Country : Object
+- Application Date : Object
+- Yoe : Integer : Object
+- Seniority : Object
+- Technology : Object
+- Code Challenge Score : Integer
+- Technical Interview : Integer
+
+  NOTE:
+  YOE means Years Of Experience
 
 ## Technologies Used
 
